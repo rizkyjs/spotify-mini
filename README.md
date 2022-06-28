@@ -11,4 +11,4 @@ node run.js
 ```
 
 ## Note
-- **Sebelum run harap ganti isi email dan password akun spotify kalian didalam file config.json**
+- **Sebelum run harap isi email dan password akun spotify kalian didalam file config.json**
