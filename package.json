@@ -1,0 +1,10 @@
+{
+    "dependencies": {
+        "chalk": "^4.1.2",
+        "delay": "^5.0.0",
+        "moment-timezone": "^0.5.33",
+        "puppeteer-extra": "^3.1.18",
+        "puppeteer-extra-plugin-stealth": "^2.7.8",
+        "readline-sync": "^1.4.10"
+    }
+}
